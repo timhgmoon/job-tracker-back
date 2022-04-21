@@ -10,6 +10,7 @@ psycopg2 = "*"
 pytz = "*"
 gunicorn = "*"
 dj-database-url = "*"
+django-cors-headers = "*"
 
 [dev-packages]
 
